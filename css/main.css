@@ -22,7 +22,16 @@ body {
   margin: 0;
 }
 
+section {
+  background-color: #e5c30a;
+}
+
 @media only screen and (min-width: 25em) {
+
+  html {
+    font-size: 100%;
+    line-height: 1.3;
+  }
 
 }
 
